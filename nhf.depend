@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1429610592 source:c:\users\shaat\desktop\bme\prog2\nhf\header.cpp
+	"header.h"
+
+1429802661 c:\users\shaat\desktop\bme\prog2\nhf\header.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdexcept>
+
+1431017888 source:c:\users\shaat\desktop\bme\prog2\nhf\main.cpp
+	<iostream>
+	"hozzavalo.h"
+	"recept.h"
+	"recepttar.h"
+	"String.h"
+	"memtrace.h"
+
+1431012828 c:\users\shaat\desktop\bme\prog2\nhf\hozzavalo.h
+	<iostream>
+	"String.h"
+	"memtrace.h"
+
+1431012828 c:\users\shaat\desktop\bme\prog2\nhf\recept.h
+	"hozzavalo.h"
+	<iostream>
+	"String.h"
+	"memtrace.h"
+
+1431012828 c:\users\shaat\desktop\bme\prog2\nhf\recepttar.h
+	<iostream>
+	<fstream>
+	<stdexcept>
+	"recept.h"
+	"String.h"
+	"memtrace.h"
+
+1431012828 source:c:\users\shaat\desktop\bme\prog2\nhf\hozzavalo.cpp
+	"hozzavalo.h"
+	"memtrace.h"
+
+1431012828 source:c:\users\shaat\desktop\bme\prog2\nhf\recepttar.cpp
+	"recepttar.h"
+	"memtrace.h"
+
+1431012828 source:c:\users\shaat\desktop\bme\prog2\nhf\recept.cpp
+	"recept.h"
+	"memtrace.h"
+
+1429883272 source:c:\users\shaat\desktop\nhf\nhf\hozzavalo.cpp
+	"hozzavalo.h"
+
+1429815838 c:\users\shaat\desktop\nhf\nhf\hozzavalo.h
+	<iostream>
+	<cstring>
+
+1429883921 source:c:\users\shaat\desktop\nhf\nhf\main.cpp
+	<iostream>
+	"hozzavalo.h"
+	"recept.h"
+	"recepttar.h"
+
+1429828806 c:\users\shaat\desktop\nhf\nhf\recept.h
+	"hozzavalo.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1429886638 c:\users\shaat\desktop\nhf\nhf\recepttar.h
+	<iostream>
+	<fstream>
+	<cstring>
+	<stdexcept>
+	"recept.h"
+
+1429875127 source:c:\users\shaat\desktop\nhf\nhf\recept.cpp
+	"recept.h"
+
+1429884049 source:c:\users\shaat\desktop\nhf\nhf\recepttar.cpp
+	"recepttar.h"
+
+1431018862 source:c:\users\shaat\desktop\bme\prog2\nhf\string.cpp
+	"String.h"
+	"memtrace.h"
+
+1431013328 c:\users\shaat\desktop\bme\prog2\nhf\string.h
+	<iostream>
+	<cstring>
+	<stdexcept>
+	<cstdlib>
+	"memtrace.h"
+
+1431012668 c:\users\shaat\desktop\bme\prog2\nhf\memtrace.h
+	<new>
+	<stdlib.h>
+	<iostream>
+
